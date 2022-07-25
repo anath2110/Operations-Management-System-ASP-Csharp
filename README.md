@@ -5,4 +5,4 @@ Automation of manual operations prevalent in ‘Open Market Sale Scheme (Domesti
 ## Contents
 <br> **Project Documentation.pdf**: Includes detailed description of developing a stand-alone application program ('OMSS(D)_Bulk') using ASP technologies,
 with the objective to automate the existing manual process related to Bulk Sale of Wheat and Raw Rice Grade-A under OMSS(D), verifying its needs prior to that and finally, describing its beneficial impacts as and when implemented over the manual process.
-<br> **Codes&Executables**: Includes codes in C#, which can be viewed through Visual Studio IDE, and executable files with extenstion '.suo'.  
+<br> **Codes&Executables**: Includes codes in C#, which can be viewed through Visual Studio IDE, and executable files.  
